@@ -3,6 +3,8 @@
     "javascript",
     "javascriptreact",
     "typescript"
-  ]
+  ],
+  "appService.defaultWebAppToDeploy": "/subscriptions/0a697558-b16f-4693-886a-1725943ff5da/resourceGroups/trewSignatureResourceGroup/providers/Microsoft.Web/sites/trewSignatureWebApp",
+  "appService.deploySubpath": "."
 }
   
