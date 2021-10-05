@@ -4,6 +4,6 @@
     "javascriptreact",
     "typescript"
   ],
-  "appService.deploySubpath": "."
+  "appService.deploySubpath": ".",
 }
   
