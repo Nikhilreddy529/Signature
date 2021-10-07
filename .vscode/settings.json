@@ -5,6 +5,6 @@
     "typescript"
   ],
   "appService.deploySubpath": ".",
-  "appService.defaultWebAppToDeploy": "/subscriptions/0a697558-b16f-4693-886a-1725943ff5da/resourceGroups/trewsignRG/providers/Microsoft.Web/sites/trewsignWA",
+  "appService.defaultWebAppToDeploy": "/subscriptions/0a697558-b16f-4693-886a-1725943ff5da/resourceGroups/trewSignRG/providers/Microsoft.Web/sites/trewSignWA",
 }
   
