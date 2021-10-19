@@ -6,7 +6,7 @@
 /* global OfficeRuntime, require */
 
 const documentHelper = require("./documentHelper");
-const fallbackAuthHelper = require("./fallbackAuthHelper");
+const fallbackAuthHelper = require("./fallbackauthhelper");
 const sso = require("office-addin-sso");
 let retryGetAccessToken = 0;
 
